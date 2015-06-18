@@ -6,6 +6,35 @@ TuDu
 
 We believe that people needs an app to manage your tasks and they want this without any charges.
 
+
+TuDu is made with [Meteor](https://www.meteor.com/)!
+
+Want to contribute? Do a Pull Request!
+
+## Table of Contents
+
+- [Instalation](#instalation)
+- [In the future](#in-the-future)
+- [Credits](#credits)
+
+## Instalation
+
+Stable version:
+
+```
+git clone https://github.com/nerijunior/TuDu.git
+cd TuDu
+meteor
+```
+
+Dev version:
+
+```
+git clone -b dev --singe-branch https://github.com/nerijunior/TuDu.git
+cd TuDu
+meteor
+```
+
 ## In the future
 
 ### Task List
@@ -13,18 +42,21 @@ We believe that people needs an app to manage your tasks and they want this with
 - [ ] Rename Task List
 - [ ] Delete Task List
 - [ ] Attach users to Task List
-- [ ] Close Task List
 - [ ] Set Deadline for Task List
+- [ ] Add Private Task List
 
 ### Tasks
 - [ ] Add Task
 - [ ] Rename Task
 - [ ] Delete Task
-- [ ] Close Task
+- [ ] Complete Task
+- [ ] Fav a task
 - [ ] Attach user to Task
 - [ ] Set Deadline for Task
-- [ ] Fav a task
+- [ ] Add Private Task
+- [ ] Add Sub task
 - [ ] Add scheduled task (per hour, day, etc)
+- [ ] Add Task tag
 
 ### Groups
 - [ ] Create Groups
@@ -37,3 +69,9 @@ We believe that people needs an app to manage your tasks and they want this with
 ### Notification
 - [ ] Email notification
 - [ ] Browser notification
+
+### App
+- [ ] Android App
+- [ ] iOs App
+
+## Credits
