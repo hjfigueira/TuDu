@@ -27,10 +27,10 @@ cd TuDu
 meteor
 ```
 
-Dev version:
+Dev version: *-*
 
 ```
-git clone -b dev --singe-branch https://github.com/nerijunior/TuDu.git
+git clone -b dev https://github.com/nerijunior/TuDu.git
 cd TuDu
 meteor
 ```
